@@ -1,2 +1,2 @@
 # Vue-WeeklyCalendar
-Frontend CRUD 
+Frontend CRUD in view for basic calendar app
